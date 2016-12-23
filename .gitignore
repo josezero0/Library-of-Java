@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/Standard Command Line/nbproject/private/
+/Standard Command Line/dist/
+/Standard Command Line/build/
