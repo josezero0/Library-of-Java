@@ -1,11 +1,11 @@
-package com.scl.util;
+package com.standard.command.line.util;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Class to read a single line from the concole.
+ * Class to read a single line from the console.
  *
  * @author
  */

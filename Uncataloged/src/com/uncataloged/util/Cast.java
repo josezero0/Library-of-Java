@@ -1,4 +1,4 @@
-package com.scl.util;
+package com.uncataloged.util;
 
 /**
  * Class to validate if a String can be parsed into a number format and deal
